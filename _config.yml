@@ -14,7 +14,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
-url                      : ""
+url                      : #""
 baseurl                  : ""
 repository               : "moya10/pibook"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,13 +59,13 @@ social:
 
 # Site Author
 author:
-  name             : ""
+  name             : #""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
   email            :
   uri              :
-  home             : ""
+  home             : #""
   bitbucket        :
   codepen          :
   dribbble         :

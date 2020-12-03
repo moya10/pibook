@@ -1,24 +1,24 @@
 [submodule "images"]
 	path = images
     url = https://github.com/moya10/images.git
-    branch = master
+    branch = e9c9e65
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/moya10/_gallery.git
-	branch = master
+	branch = d806dba
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/moya10/extras.git
-	branch = master
+	branch =  c1f70d9
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/moya10/_quotes.git
-	branch = master
+	branch = f64bd47
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/moya10/notes.git
-	branch = master
+	branch = 431868a
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/moya10/bibliography.git
-	branch = master
+	branch =  01ca73a
